@@ -1,0 +1,38 @@
+Protocolo TCP/IP
+
+Como sucede con las persona, es importante que los equipos tengan un modo comun de comunicarse entre ellos. Para la mayoria de los equipos actuales, este modo 
+es TCP/IP suele venir integrado en los equipo y esta automatizado en buena medida, aunque puede ser util comprender el modelo TCP/IP, en especial si va
+a configurar un equipo
+
+Que es_
+TCP/IP son las siglas de Transmission Control Protocol/Internet Protocol(Protocolo de control de transmision/protocolo de internet) TCP/IP es un conjunto de reglas 
+estandarizadas que permiten a los equipos comunicarse en una red como Internet.
+
+Que hace exactamente TCP/IP 
+Por si mismo, un equipo puede realizar determinadas tares. Pero su potencia se multiplica cuando es capaz de comunicarse con otros. Muchas de las cosas para las
+que utilizamos los equipos(enviar menajes de correo electronico, ver Netflix u obtener indicaciones para llegar a un sitio) dependen de la comunicacion entre ellos. 
+Pueden ser equipos de distintas marcas o incluso encontrarse en zonas del mundo diferentes. Y las personas y programas que los utilizan pueden hablar distintos
+lenguajes humanos e informaticos.
+Una interaccion determinada puede darse entre dos sistemas informaticos o involucrar cientos de sistemas. Sin embargo, como sucede al pasar una carta o un paquete de 
+mano en mano, cada transaccion se produce  entre solo dos equipos cada vez.
+
+Para que esto suceda, los dos equipos deben saber, por adelantado, como se espera que se comuniquen.
+
+¿Cómo inician la conversación?
+● ¿A quién le toca comunicarse?
+● ¿Cómo sabe un equipo si su mensaje se ha transmitido correctamente?
+● ¿Cómo terminan la conversación?
+
+Los equipos lo resuelven mediante protocolos. Un protocolo es un conjunto de reglas convenido. En terminos humanos, utilizamos protocolos sociales para saber como
+comportarnos y comunicarnos con otras personas. Las tecnologias tienen su propia forma de establecer reglas de comunicacion, como el telegrafo cuando empleaba
+el codigo Morse o una racio CB en la que se utilizan codigos como '10 4'.
+
+Con los equipos sucede lo mismo, aunque las reglas son mas estrictas. Cuando todos los equipos emplean el mismo protocolo, es posible transferir informacion. 
+Cuando no es asi, cunde el caos
+
+La comunicación era más complicada cuando la gente comenzaba a intercambiar
+información entre equipos. Cada fabricante tenía un sistema de comunicación propio entre
+sus máquinas, pero dichos sistemas no permitían la comunicación con los equipos de los
+demás fabricantes. Pronto quedó claro que era necesario un estándar convenido que
+permitiera a los equipos de todos los fabricantes comunicarse entre ellos. Ese estándar es
+TCP/IP

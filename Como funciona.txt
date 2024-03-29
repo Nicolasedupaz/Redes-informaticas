@@ -1,0 +1,23 @@
+Internet se define como una gran red de redes, es decir, una red conectada a otra de manera continua y simultanea.
+una gran red donde todos los dispositivos estan conectados entre si.
+
+Como se comunican las redes de internet_
+Para que una interconexion se realment global todas las redes que se conectan a la gran red de redes deben hacerlo a traves de un mismo protocolo
+o 'lenguaje en comun', es decir el protocolo de comunicacion de internet debe ser una implementacion estandar que garantice la conexion desde cualquier origen 
+hasta el destino.
+
+Durante la decada del 70, un grupo de investigadores de Estados Unidos creo un protocolo de comunicacion que denominaron TCP/IP, conectaron entre si a un conjunto
+de computadoras a pedido del gobierno, sin saber que el proyecto tendria exito y alcance global. De esta forma, TCP/IP se convirtio en el modelo de comunicacion
+de las redes que componen Internet.
+
+Interconexion
+Probablemente la computadora que utilizamos a diario en la oficina esta conectada a una red de computadoras. En nuestra casa, la computadora portatil, tablet
+y celulares los vinculamos a un dispositivo inalambrico que luego se conecta a la red de fibra optica de la empresa que nos brinda servicio de internet
+y de television por cable o telefonia. Este se comunica a la red de otro proveedor de servicios de internet o isp, mas grande, que llega a un numero mayor de hogares
+y empresas, y asi sucesivamente, a su vez, estos proveedores de acceso internacional se interconectan con otros mas grandes, denominados Carriers, a traves de fibras
+opticas transcontinentales y satelites, entre otros.
+
+El impacto de Internet es tal que ha modificado
+paradigmas y continúa estableciendo nuevos desafíos en torno a la educación, la
+industria, la seguridad, los derechos humanos, las políticas públicas y las nuevas
+tecnologías, entre otros

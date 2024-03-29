@@ -1,0 +1,20 @@
+Internet es un conjunto descentralizado de redes de comunicacion interconectadas que utilizan la familia de protocolos TCP/IP
+lo cual garantiza que las redes fisicas heterogeneas que la componene constituyan una red unica de alcance mundial
+Sus origenes se remontan a 1969, cuando se establecio la primer conexion de computadoras, conocida como ARPANET, entre tres universidades en California.
+Uno de los servicios que mas exito ha tenido internet ha sido la World Wide Web (www o la web).
+
+La WWW es un conjunto de protocolos que permite, de forma sencilla, la consulta remota de archivos de hipertexto. Esta fue un desarrollo posterior (1990)
+y utiliza internet como medio de transmision, por tanto, muchjos otros servicios y protocolos de internet, aparte de la web, el envio de correo electronico
+(STMP), la transmision de telefonia(VolP), television (IPTV), los boletines electronicos (NNTP), el acceso remoto a otros dispositivos (SSH y Telnet) o los juegos en linea.
+
+El uso de Internet crecio rapidamente en el; hemisferio occidental desde la mitad de la decada 1990 y desde la decada de 2000 en el resto del mundo.
+
+En los 20 En los 20 años desde 1995, el uso de Internet se ha multiplicado por 100, cubriendo en 2015 a la tercera parte de la población mundial.​ 
+La mayoría de las industrias de comunicación, incluyendo telefonía, radio, televisión, correo postal y periódicos tradicionales están siendo transformadas o redefinidas 
+por Internet, y permitió el nacimiento de nuevos servicios como correo electrónico (e-mail), telefonía por Internet, televisión por Internet, música digital, y vídeo digital.
+
+ha crecido de publicacion de periodicos libros, a la adaptacion de los sitios web, o estan siendo convertidos a blog.
+
+El comercio electrónico ha crecido exponencialmente tanto por grandes cadenas como pequeñas y medianas empresas o emprendedores, ya que ahora pueden vender por Internet productos o servicios hacia todo el mundo.
+
+Los servicios empresariales y financieros en Internet afectan las cadenas de suministro en todas las industrias.

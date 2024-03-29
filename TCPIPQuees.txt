@@ -1,0 +1,35 @@
+En que se diferencian TCP e IP?
+
+TCP e IP son dos protocolos distintos para redes informaticas.
+IP es la parte que obtiene la direccion a la que se envian los datos. TCP se encarga de la entrega de  los datos una vez hallada dicha direccion IP.
+
+Es posible separarlos, pero lo cierto es que no tienen mucho sentido  deferenciar entre TCP e IP. Como se usan juntos tan habitualmente, 'TCP/IP' y modelo
+TCP/IP son ya terminologia reconocida.
+
+Mirelo de esta forma:
+La direccion Ip es como el numero de telefono que se asigna a su smartphone. TCP es toda la tecnologia que hace que el telefono emita un timbre al recibir una llamada
+y que le permite hablar con alguien al otro lado de la linea. Son cosas diferentes, pero tampoco tienen sentido la una sin la otra.
+
+Qué hace exactamente TCP/IP? ¿Y cómo funciona?
+TCP/IP fue desarrollado por el Departamento de Defensa de EE. UU. para especificar el
+modo en que los equipos transfieren datos de un dispositivo a otro. TCP/IP incide mucho
+en la precisión y dispone de varios pasos para garantizar la correcta transmisión de los
+datos entre ambos equipos.
+
+Lo que hace TCP/IP es descomponer cada mensaje
+en paquetes que se vuelven a ensamblar en el otro extremo. De hecho, cada paquete
+podría tomar una ruta distinta hasta el equipo de destino si la ruta deja de estar disponible
+o está muy congestionada.
+
+Además, TCP/IP divide las distintas tareas de comunicación en capas. Cada capa tiene
+una función distinta. Los datos pasan por cuatro capas independientes antes de recibirse
+en el otro extremo (como se explica en la sección siguiente). TCP/IP
+recorre estas capas en orden inverso para reensamblar los datos y presentárselos al
+destinatario.
+
+El propósito de las capas es crear un sistema estandarizado, sin que los distintos
+fabricantes de hardware y software tengan que gestionar la comunicación por su cuenta.
+Es como conducir un coche: todos los fabricantes convienen en la posición de los
+pedales, así que no tenemos que tener eso en cuenta al cambiar de coche. También
+significa que es posible actualizar determinadas capas, por ejemplo, para mejorar el
+rendimiento o la seguridad, sin tener que actualizar todo el sistema
